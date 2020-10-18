@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "The-Big-Bang-Theory.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,163 @@
+[
+    {
+        "name": "13 Reasons Why",
+        "imageName" : "13ReasonWhy",
+        "rating" : 7.7,
+        "genre" : ["Drama","Mystery"],
+        "numberOfSeasons" : 4,
+        "description" : "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life."
+    },
+    {
+        "name": "Riverdale",
+        "imageName" : "riverdale",
+        "rating" : 7,
+        "genre" : ["Crime", "Drama", "Mystery"],
+        "numberOfSeasons" : 4,
+        "description" : "While navigating the troubled waters of romance, school and family, Archie and his gang become entangled in dark Riverdale mysteries."
+    },
+    {
+        "name": "Stranger Things",
+        "imageName" : "strangerthings",
+        "rating" : 8.8,
+        "genre" : ["Drama","Fantasy","Horror"],
+        "numberOfSeasons" : 3,
+        "description" : "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back."
+    },
+    {
+        "name": "Tom Clancy's Jack Ryan",
+        "imageName" : "jackryan",
+        "rating" : 8.1,
+        "genre" : ["Action","Drama","Thriller"],
+        "numberOfSeasons" : 3,
+        "description" : "An up-and-coming CIA analyst, Jack Ryan, is thrust into a dangerous field assignment as he uncovers a pattern in terrorist communication that launches him into the center of a dangerous gambit."
+    },
+    {
+        "name": "The Walking Dead",
+        "imageName" : "walking-dead",
+        "rating" : 8.2,
+        "genre" : ["Drama","Horror","Thriller"],
+        "numberOfSeasons" : 10,
+        "description" : "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive."
+    },
+    {
+        "name": "Prison Break",
+        "imageName" : "Prison-Break",
+        "rating" : 8.3,
+        "genre" : ["Action", "Crime","Drama"],
+        "numberOfSeasons" : 5,
+        "description" : "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside."
+    },
+    {
+        "name": "Game of Thrones",
+        "imageName" : "got",
+        "rating" : 9.3,
+        "genre" : ["Action", "Adventure","Drama"],
+        "numberOfSeasons" : 8,
+        "description" : "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."
+    },
+    {
+        "name": "The 100",
+        "imageName" : "the100",
+        "rating" : 7.7,
+        "genre" : ["Drama","Mystery","Sci-Fi"],
+        "numberOfSeasons" : 7,
+        "description" : "Set ninety-seven years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends one hundred juvenile delinquents back to Earth, in hopes of possibly re-populating the planet."
+    },
+    {
+        "name": "Money Heist",
+        "imageName" : "moneyheist",
+        "rating" : 8.4,
+        "genre" : ["Action","Crime","Mystery"],
+        "numberOfSeasons" : 4,
+        "description" : "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain."
+    },
+    {
+        "name": "Dexter",
+        "imageName" : "dexter",
+        "rating" : 8.6,
+        "genre" : ["Crime","Drama","Mystery"],
+        "numberOfSeasons" : 8,
+        "description" : "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers."
+    },
+    {
+        "name": "The Witcher",
+        "imageName" : "thewitcher",
+        "rating" : 8.2,
+        "genre" : ["Action","Adventure","Fantasy"],
+        "numberOfSeasons" : 1,
+        "description" : "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts."
+    },
+    {
+        "name": "Teen Wolf",
+        "imageName" : "teenwolf",
+        "rating" : 7.6,
+        "genre" : ["Action","Drama","Mystery"],
+        "numberOfSeasons" : 6,
+        "description" : "An average high school student and his best friend get caught up in some trouble causing him to receive a werewolf bite. As a result they find themselves in the middle of all sorts of dramas in Beacon Hills."
+    },
+    {
+        "name": "Lucifer",
+        "imageName" : "lucifer",
+        "rating" : 8.2,
+        "genre" : ["Crime","Drama","Fantasy"],
+        "numberOfSeasons" : 5,
+        "description" : "Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels."
+    },
+    {
+        "name": "Lost",
+        "imageName" : "lost",
+        "rating" : 8.3,
+        "genre" : ["Adventure","Drama","Fantasy"],
+        "numberOfSeasons" : 6,
+        "description" : "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island."
+    },
+    {
+        "name": "The Vampire Diaries",
+        "imageName" : "vimpirediaries",
+        "rating" : 7.7,
+        "genre" : ["Drama","Fantasy","Horror"],
+        "numberOfSeasons" : 8,
+        "description" : "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers."
+    },
+    {
+        "name": "Dark",
+        "imageName" : "dark",
+        "rating" : 8.8,
+        "genre" : ["Crime","Drama","Mystery"],
+        "numberOfSeasons" : 3,
+        "description" : "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families."
+    },
+    {
+        "name": "Breaking Bad",
+        "imageName" : "breakingbad",
+        "rating" : 9.5,
+        "genre" : ["Crime","Drama","Thriller"],
+        "numberOfSeasons" : 5,
+        "description" : "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future."
+    },
+    {
+        "name": "The Big Bang Theory",
+        "imageName" : "The-Big-Bang-Theory",
+        "rating" : 8.1,
+        "genre" : ["Comedy","Romance"],
+        "numberOfSeasons" : 12,
+        "description" : "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory."
+    },
+    {
+        "name": "Friends",
+        "imageName" : "friends",
+        "rating" : 8.9,
+        "genre" : ["Comedy","Romance"],
+        "numberOfSeasons" : 10,
+        "description" : "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan."
+    },
+    {
+        "name": "How I Met Your Mother",
+        "imageName" : "himym",
+        "rating" : 8.3,
+        "genre" : ["Comedy","Romance"],
+        "numberOfSeasons" : 9,
+        "description" : "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother."
+    }
+
+]

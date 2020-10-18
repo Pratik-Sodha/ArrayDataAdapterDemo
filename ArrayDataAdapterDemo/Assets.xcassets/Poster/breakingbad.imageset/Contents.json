@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "breakingbad.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
