@@ -1,4 +1,4 @@
 # ArrayDataAdapterDemo
 
 
-<img src="https://github.com/Pratik-Sodha/ArrayDataAdapterDemo/blob/main/adapterdemo.gif" width="480">
+<img src="https://github.com/Pratik-Sodha/ArrayDataAdapterDemo/blob/main/arrayadapterdemo.gif" width="480">
