@@ -1,6 +1,7 @@
 # ArrayDataAdapter
 
-ArrayDataAdapter is wrapper class which can help to manage swift array for filtering and sorting. It's simple plug and surf class.  
+ArrayDataAdapter is wrapper class which can help to manage swift array for filtering and sorting without and condition and flag. It's simple plug and surf class which be more helpful with listing data over table view or collection view which have filtering and sorting option. 
+
 
 
 # Uasge
