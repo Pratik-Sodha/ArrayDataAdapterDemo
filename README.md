@@ -1,3 +1,4 @@
 # ArrayDataAdapterDemo
 
-https://github.com/Pratik-Sodha/ArrayDataAdapterDemo/blob/main/adapterdemo.gif
+
+<img src="https://github.com/Pratik-Sodha/ArrayDataAdapterDemo/blob/main/adapterdemo.gif" width="480">
